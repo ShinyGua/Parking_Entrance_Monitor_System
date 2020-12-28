@@ -2,11 +2,7 @@
 
 **Author: Xiyu Wang**
 
-**Student ID: u6022863**
-
-**Course code: COMP8755**
-
-**Time: 02/10/2029**
+**Time: 27/12/2029**
 
 ---
 
