@@ -10,6 +10,8 @@
 
 This is a the parking entrance monitoring system to colulation how many parking spots are available. Besides, the real-time monitoring video is fuzzy by a physical blur filter fixed at a camera to preserve people' and the vehicles' privacy. The algorithm mainly relies on background subtraction, provided by OpenCV and convolutional neural network (CNN), supplied by TensorFlow. 
 
+THis is a short video demo about this project:
+
 [![Watch the video](https://img.youtube.com/vi/u5bLxDYfKY8/maxresdefault.jpg)](https://www.youtube.com/watch?v=u5bLxDYfKY8&feature=youtu.be&ab_channel=xyw)
 
 ---
